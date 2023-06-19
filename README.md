@@ -19,7 +19,6 @@ Getting Started
 To get started with these projects, follow these steps:
 
 Clone the repository to your local machine using the following command:
-git clone https://github.com/your-username/excel-data-analysis-projects.git
 Install Microsoft Excel on your computer if you haven't already.
 
 Open the desired project file (.xlsx) in Microsoft Excel to explore the data and analysis performed.
